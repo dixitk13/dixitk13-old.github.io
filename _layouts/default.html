@@ -55,21 +55,23 @@
           <li><a href="{{ site.website.owner_url }}">View On <strong>GitHub</strong></a></li>
         </ul>
         {% endif %}
+        {% if site.mydetails %}
+          <div class="my-logos">
+            {% if site.mydetails.show_quora %}
+              <div class="quora-icon">
+                <a href="http://strava.com/athletes/19109068/badge" target="_blank">
+                  <img src="http://qsf.fs.quoracdn.net/-3-images.logo.wordmark_default.svg-26-32753849bf197b54.svg"></div>
+                </a>
+              </div>
+            {% endif %}
 
-        {% if site.mydetails.show_quora %}
-          <div class="quora-icon">
-            <a href="https://www.quora.com/profile/Dixit-Patel-4" target="_blank">
-              <img src="http://qsf.fs.quoracdn.net/-3-images.logo.wordmark_default.svg-26-32753849bf197b54.svg"></div>
-            </a>
+            {% if site.mydetails.show_strava %}
+              <div class="strava-icon">
+                <a href="http://strava.com/athletes/19109068/badge" class="strava-badge- strava-badge-follow" target="_blank"><img src="http://badges.strava.com/echelon-sprite-48.png" alt="Strava" /></a>
+              </div>
+            {% endif %}
           </div>
         {% endif %}
-
-        {% if site.mydetails.show_strava %}
-          <div class="strava-icon">
-            <a href="http://strava.com/athletes/19109068/badge" class="strava-badge- strava-badge-follow" target="_blank"><img src="http://badges.strava.com/echelon-sprite-48.png" alt="Strava" /></a>
-          </div>
-        {% endif %}
-
       </header>
       <section>
 
