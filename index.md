@@ -40,6 +40,7 @@ The Links consist of all the readme files, because the repositories are private 
 
 ### Computer Systems
 Projects done as a part of core-course Computer System.
+
 [computer-systems](https://github.com/dixitk13/readmes.md/blob/master/computer-systems.md)
 
 ### Fault Tolerant dmtcp
@@ -57,7 +58,6 @@ These coordinators can share the current state using Zookeeper. Leader election 
 [parallel-data-processing](https://github.com/dixitk13/readmes.md/blob/master/parallel-data-processing.md)
 
 [parallel-data-processing-in-class](https://github.com/dixitk13/readmes.md/blob/master/parallel-data-processing-in-class.md)
-
 
 
 ![word_cloud](https://github.com/dixitk13/readmes.md/blob/master/word_cloud.jpg)
