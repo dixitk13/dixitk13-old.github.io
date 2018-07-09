@@ -1,1 +1,8 @@
 theme: jekyll-theme-minimal
+foo:
+  downloads:
+    resume: /dixitk13/dixitk13.github.io/raw/downloads/Dixit_Keshavbhai_Patel.pdf
+logo:
+  self_img: /dixitk13/dixitk13.github.io/raw/downloads/Dixit_Keshavbhai_Patel.pdf
+logo: /dixitk13/dixitk13.github.io/raw/static/dixitk13.jpg
+show_downloads: true
