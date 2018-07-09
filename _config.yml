@@ -1,10 +1,9 @@
 theme: jekyll-theme-minimal
-foo:
-  downloads:
-    resume: https://github.com/dixitk13/dixitk13.github.io/raw/master/downloads/Dixit_Keshavbhai_Patel.pdf
 logo: https://github.com/dixitk13/dixitk13.github.io/raw/master/static/dixitk13.jpg
 show_downloads: true
 title: "Dixit Keshavbhai Patel"
 website:
   owner_url: https://github.com/dixitk13
   project_tagline: "Just another software engineer"
+downloads:
+  resume: https://github.com/dixitk13/dixitk13.github.io/raw/master/downloads/Dixit_Keshavbhai_Patel.pdf
