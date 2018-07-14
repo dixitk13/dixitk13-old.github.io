@@ -1,6 +1,8 @@
 theme: jekyll-theme-minimal
 logo: https://github.com/dixitk13/dixitk13.github.io/raw/master/static/dixitk13.jpg
 show_downloads: true
+page:
+  title: "Dixit Keshavbhai Patel"
 mydetails:
   show_strava: true
   show_quora: true
