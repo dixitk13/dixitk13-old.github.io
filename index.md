@@ -1,5 +1,4 @@
-
-# Cool Projects
+# Dixit Keshavbhai Patel
 
 A set of Cool Projects which I spawn when bored.
 
@@ -25,11 +24,9 @@ The Links consist of all the readme files, because the repositories are private 
 
 
 ### Information Retrieval
+Python scripts consisting of Focussed Crawling on wikipedia. PageRank and Weighted PageRank algorithms implemented on WT2g collection. Small Search Engine using Inverted index and retrieval based on BM25 algorithm.
 [information-retrieval](https://github.com/dixitk13/readmes.md/blob/master/information-retrieval.md)
 
-
-### Natural Language Processing
-[natural-language-processing](https://github.com/dixitk13/readmes.md/blob/master/natural-language-processing.md)
 
 
 ### Data Mining Techniques
@@ -55,11 +52,14 @@ These coordinators can share the current state using Zookeeper. Leader election 
 
 [own-parallel-data-processing-framework](https://github.com/dixitk13/readmes.md/blob/master/own-parallel-data-processing-framework.md)
 
+### Natural Language Processing
+[natural-language-processing](https://github.com/dixitk13/readmes.md/blob/master/natural-language-processing.md)
+
 [parallel-data-processing](https://github.com/dixitk13/readmes.md/blob/master/parallel-data-processing.md)
 
 [parallel-data-processing-in-class](https://github.com/dixitk13/readmes.md/blob/master/parallel-data-processing-in-class.md)
 
 
-![word_cloud](https://github.com/dixitk13/readmes.md/blob/master/word_cloud.jpg)
+![word_cloud](https://github.com/dixitk13/dixitk13.github.io/raw/master/downloads/word_cloud.jpg)
 
 created using : [Dillinger](http://dillinger.io/) [Wordle](http://www.wordle.net/)
